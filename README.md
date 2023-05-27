@@ -1,5 +1,7 @@
 Display owner of tty.
+
 Used to set the DISPLAY after sudo
+
 Spiros Ioannou 1995
 
 ```
