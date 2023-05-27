@@ -11,5 +11,5 @@ $ sudo id
 uid=0(root) gid=0(root) groups=0(root)
 
 $ sudo ./whowasi
-uid:gid:username:eusername=1842201599:5:sivann:root
+uid:gid:username:eusername=2032:5:sivann:root
 ```
